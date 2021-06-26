@@ -32,5 +32,5 @@ O Letmeask é uma aplicação que serve como elo entre mentor e aluno para tirar
     <img alt="Letmeask" title="Letmeask" src="./src/assets/images/layoutRoom.png" />
 </h1>
 
-Feito por Luciano Ferreira
-Rocketseat 
+<p>Feito por Luciano Ferreira<p>
+<p>Rocketseat 🚀<p>
